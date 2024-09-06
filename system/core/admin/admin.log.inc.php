@@ -6,7 +6,7 @@ Copyright Neocrome & Seditio Team
 http://www.neocrome.net
 http://www.seditiocms.com
 [BEGIN_SED]
-File=admin.statistics.log.inc.php
+File=admin.log.inc.php
 Version=177
 Updated=2015-feb-06
 Type=Core.admin
